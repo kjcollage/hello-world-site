@@ -1,2 +1,2 @@
 # hello-world-site
-jsut hello word 
+just hello word 
